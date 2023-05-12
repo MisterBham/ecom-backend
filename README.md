@@ -1,15 +1,13 @@
 # E-commerce Backend
-<figure class="video_container">
-  <iframe src="https://drive.google.com/file/d/184KcGjYxH5x-9Y8_z1vV9_uoPqHweTYs/view" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+[![Application Workflow](./images/get-categories.jpg)](https://drive.google.com/file/d/184KcGjYxH5x-9Y8_z1vV9_uoPqHweTYs/view) <br>
 Click video above for application walkthrough using seeded data!
- </br>
-<img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-339933?logo=node.js&logoColor=white&style=flat">
-<img alt="Express" src="https://img.shields.io/badge/-Express-000000?logo=Express&logoColor=white&style=flat">
-<img alt="mySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white&style=flat">
-<img alt="Sequelize" src="https://img.shields.io/badge/Sequelize-52B0E7?logo=Sequelize&logoColor=white&style=flat">
-<img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-4000BF?logo=Insomnia&logoColor=white&style=flat">
-<img alt="Nodemon" src="https://img.shields.io/badge/Nodemon-76D04B?logo=Nodemon&logoColor=white&style=flat">
+ 
+![NodeJS](https://img.shields.io/badge/-NodeJS-339933?logo=node.js&logoColor=white&style=flat)
+![Express](https://img.shields.io/badge/-Express-000000?logo=Express&logoColor=white&style=flat)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white&style=flat)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?logo=Sequelize&logoColor=white&style=flat)
+![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?logo=Insomnia&logoColor=white&style=flat)
+![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?logo=Nodemon&logoColor=white&style=flat)
 
 ## Table of Contents 
 * [Description](#Description) 
@@ -44,6 +42,8 @@ Available npm scripts:
 - start
 - watch
 - seed
+
+Live application can be found <a href="#">here</a>
 
 ### License
 Further information regarding this specific license can be found via: https://opensource.org/license/mit/. <br>
