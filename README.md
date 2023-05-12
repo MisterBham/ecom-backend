@@ -60,7 +60,7 @@ Should you have any further questions, please reach the developer at: misterbham
 GitHub: <a href="https://github.com/MisterBham">MisterBham</a>
 
 ### Screenshots
-<img src="./images/get-categories.jpg" width=65% height=65%> <br>
-<img src="./images/post-products.jpg" width=65% height=65%> <br>
-<img src="./images/put-tags.jpg" width=65% height=65%> <br>
-<img src="./images/del-categories.jpg" width=65% height=65%> <br>
+<img src="./images/get-categories.jpg" width=85% height=85%> <br>
+<img src="./images/post-products.jpg" width=85% height=85%> <br>
+<img src="./images/put-tags.jpg" width=85% height=85%> <br>
+<img src="./images/del-categories.jpg" width=85% height=85%> <br>
