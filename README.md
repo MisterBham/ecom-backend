@@ -32,7 +32,7 @@ A backend application intended to be paired with an e-commerce front end. The ap
 
 ### Installation
 1. Project is setup to use an .env file to protect sensitive database usernames and passwords. Using the supplied .env.EXAMPLE file in root directory, rename file to be that of .env (removing .EXAMPLE) and fill in required variables of DB_USER and DB_PASSWORD with your own mySQL username and password.
-2. Run mySQL in root folder. source db/schema.sql to setup working database. 
+2. Run mySQL in root folder. `source db/schema.sql` to setup working database. 
 3. `npm install` into root directory, to install required application dependencies. 
     - [optional] `npm run seed` to seed database with pre-supplied data.
 4. `npm start` to start application.
@@ -49,8 +49,7 @@ Available /api routes:
 - /tags
 
 Cloud hosted middle and backend application can be utilized via <a href="#">https://ecommerce-mysql.herokuapp.com/</a>. <br>
-Note: This application does not include front-end mechanics, simply clicking the above link will return in 'wrong link'. <br>
-Test the database functionality by hitting the provided api routes!
+*Note: This application does not include front-end mechanics, simply clicking the above link will return in 'wrong link'. Test the database functionality by hitting the provided api routes!*
 
 ### License
 Further information regarding this specific license can be found via: https://opensource.org/license/mit/. <br>
