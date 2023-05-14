@@ -39,7 +39,6 @@ A backend application intended to be paired with an e-commerce front end. The ap
 
 ### Usage
 Available npm scripts: 
-- test
 - start
 - watch
 - seed
