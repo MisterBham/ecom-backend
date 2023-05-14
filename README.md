@@ -59,7 +59,7 @@ Further information regarding this specific license can be found via: https://op
 Open <a href="https://github.com/MisterBham/ecom-backend/issues">Issues</a> on the Github repo!
 
 ### Testing
-npm test
+No unit testing provided at this time.
 
 ### Questions
 Should you have any further questions, please reach the developer at: misterbham.dev@gmail.com. <br>
