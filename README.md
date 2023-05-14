@@ -8,6 +8,7 @@ Click video above for application walkthrough using seeded data!
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?logo=Sequelize&logoColor=white&style=flat)
 ![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?logo=Insomnia&logoColor=white&style=flat)
 ![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?logo=Nodemon&logoColor=white&style=flat)
+![.env](https://img.shields.io/badge/.ENV-ECD53F?logo=.ENV&logoColor=white&style=flat)
 
 ## Table of Contents 
 * [Description](#Description) 
