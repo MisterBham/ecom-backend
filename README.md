@@ -1,5 +1,5 @@
 # E-commerce Backend
-[![Application Workflow](./images/get-categories.jpg)](https://drive.google.com/file/d/184KcGjYxH5x-9Y8_z1vV9_uoPqHweTYs/view) <br>
+[![Application Workflow](./images/get-categories.jpg)]() <br>
 Click video above for application walkthrough using seeded data!
  
 ![NodeJS](https://img.shields.io/badge/-NodeJS-339933?logo=node.js&logoColor=white&style=flat)

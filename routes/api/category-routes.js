@@ -79,7 +79,7 @@ try {
     res.status(404).json({ message: 'No category with this ID!' });
     return;
   }
-// { message: 'Successfully deleted category!' }
+  
   res.status(200).json({ message: `Successfully deleted category with ID: ${req.params.id}` });
 } catch (err) {
   res.status(500).json(err);

@@ -73,11 +73,15 @@ router.post('/', async (req, res) => {
 router.put('/:id', (req, res) => {
   // update product data
   Product.update(req.body, {
-    where: { id: req.params.id },
+    where: {
+      id: req.params.id,
+    },
   })
     .then((product) => {
       // find all associated tags from ProductTag
-      return ProductTag.findAll({ where: { product_id: req.params.id } });
+      return ProductTag.findAll({ 
+        where: { product_id: req.params.id } 
+      });
     })
     .then((productTags) => {
       // get list of current tag_ids
@@ -104,10 +108,12 @@ router.put('/:id', (req, res) => {
     })
     .then((updatedProductTags) => res.json(updatedProductTags))
     .catch((err) => {
-      // console.log(err);
-      res.status(500).json(err);
+      console.log(err);
+      res.status(400).json(err);
     });
 });
+
+
 
 router.delete('/:id', async (req, res) => {
   // delete one product by its `id` value
