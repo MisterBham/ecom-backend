@@ -1,5 +1,5 @@
 # E-commerce Backend
-[![Application Workflow](./images/get-categories.jpg)]() <br>
+[![Application Workflow](./images/get-categories.jpg)](https://drive.google.com/file/d/17oqUnd35OCWvdrYMy0G_BYAlWZN6cdKL/view) <br>
 Click video above for application walkthrough using seeded data!
  
 ![NodeJS](https://img.shields.io/badge/-NodeJS-339933?logo=node.js&logoColor=white&style=flat)
@@ -42,6 +42,11 @@ Available npm scripts:
 - start
 - watch
 - seed
+
+Available /api routes:
+- /categories
+- /products
+- /tags
 
 Live application can be found <a href="#">here</a>
 
