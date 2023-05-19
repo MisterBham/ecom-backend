@@ -49,7 +49,7 @@ Available /api routes:
 - /tags
 
 Cloud hosted middle and backend application can be utilized via <a href="#">https://ecommerce-mysql.herokuapp.com/</a>. <br>
-*Note: This application does not include front-end mechanics, simply clicking the above link will return in 'wrong link'. Test the database functionality by hitting the provided api routes!*
+*Note: This application does not include front-end mechanics, simply clicking the above link will return in 'wrong route'. Test the database functionality by hitting the provided api routes!*
 
 ### License
 Further information regarding this specific license can be found via: https://opensource.org/license/mit/. <br>
